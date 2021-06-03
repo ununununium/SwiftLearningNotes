@@ -57,3 +57,4 @@ var matrix = Matrix(rows: 10, cols: 20)
 matrix[8,12]
 matrix[8,12] = 100
 matrix[8,12]
+
